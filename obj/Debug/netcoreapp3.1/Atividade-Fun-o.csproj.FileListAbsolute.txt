@@ -1,0 +1,13 @@
+C:\Users\Alan\Desktop\C# Aula 1\Atividade-Fun-o\bin\Debug\netcoreapp3.1\Atividade-Fun-o.exe
+C:\Users\Alan\Desktop\C# Aula 1\Atividade-Fun-o\bin\Debug\netcoreapp3.1\Atividade-Fun-o.deps.json
+C:\Users\Alan\Desktop\C# Aula 1\Atividade-Fun-o\bin\Debug\netcoreapp3.1\Atividade-Fun-o.runtimeconfig.json
+C:\Users\Alan\Desktop\C# Aula 1\Atividade-Fun-o\bin\Debug\netcoreapp3.1\Atividade-Fun-o.runtimeconfig.dev.json
+C:\Users\Alan\Desktop\C# Aula 1\Atividade-Fun-o\bin\Debug\netcoreapp3.1\Atividade-Fun-o.dll
+C:\Users\Alan\Desktop\C# Aula 1\Atividade-Fun-o\bin\Debug\netcoreapp3.1\Atividade-Fun-o.pdb
+C:\Users\Alan\Desktop\C# Aula 1\Atividade-Fun-o\obj\Debug\netcoreapp3.1\Atividade-Fun-o.csprojAssemblyReference.cache
+C:\Users\Alan\Desktop\C# Aula 1\Atividade-Fun-o\obj\Debug\netcoreapp3.1\Atividade-Fun-o.AssemblyInfoInputs.cache
+C:\Users\Alan\Desktop\C# Aula 1\Atividade-Fun-o\obj\Debug\netcoreapp3.1\Atividade-Fun-o.AssemblyInfo.cs
+C:\Users\Alan\Desktop\C# Aula 1\Atividade-Fun-o\obj\Debug\netcoreapp3.1\Atividade-Fun-o.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\C# Aula 1\Atividade-Fun-o\obj\Debug\netcoreapp3.1\Atividade-Fun-o.dll
+C:\Users\Alan\Desktop\C# Aula 1\Atividade-Fun-o\obj\Debug\netcoreapp3.1\Atividade-Fun-o.pdb
+C:\Users\Alan\Desktop\C# Aula 1\Atividade-Fun-o\obj\Debug\netcoreapp3.1\Atividade-Fun-o.genruntimeconfig.cache
